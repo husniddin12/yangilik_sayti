@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="environs" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="aiogram.executor" />
+          <option value="aiogram.types.message.chat.set_description" />
+          <option value="aiogram.types.message.chat.id" />
+          <option value="handlers.users.newpostchannel.logging" />
+          <option value="ctypes.wintypes.Location" />
+          <option value="OOP.Inson" />
+          <option value="transliterate.to_latin" />
+          <option value="transliterate.to_cyrillic" />
+          <option value="discord.voice_client.VoiceProtocol.is_connected" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
